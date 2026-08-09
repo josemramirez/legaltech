@@ -28,9 +28,9 @@ import { AccessCodeGuard } from '@/components/access-code-guard';
 import '@fontsource-variable/inter';
 
 export const metadata: Metadata = {
-  title: 'OpenMAIC',
+  title: 'MMaiTeX - LegalTech',
   description:
-    'The open-source AI interactive classroom. Upload a PDF to instantly generate an immersive, multi-agent learning experience.',
+    'El Abogado del Futuro',
 };
 
 export default function RootLayout({
